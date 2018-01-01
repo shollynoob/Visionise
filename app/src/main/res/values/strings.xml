@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Visionise</string>
+    <string name="co_founder"><![CDATA[Co-Founder & CEO]]></string>
+    <string name="coy_name">Visionise Eye Care Services</string>
+    <string name="olusola">Olusola</string>
+    <string name="logo">logo</string>
+    <string name="days">MONDAY-FRIDAY</string>
+    <string name="time">7:00AM - 5:00PM</string>
+    <string name="phonenumber">08063660800</string>
+    <string name="ceomail">doolatunde@gmail.com</string>
+    <string name="coy_address">Eket Akwa Ibom State</string>
+    <string name="ceo_linkedin">\@doolatunde</string>
+</resources>
